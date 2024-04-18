@@ -23,9 +23,9 @@ I'm currently focused on learning:
 
 Here are some projects I've been working on:
 
-1. **Real time chat app** - frontend - https://github.com/Kartikkumaria2/blabberBuzzFrontend,backend-https://github.com/Kartikkumaria2/blabberBuzzBackend,live preview-
+1. **Real time chat app** - frontend - https://github.com/Kartikkumaria2/blabberBuzzFrontend ,backend-https://github.com/Kartikkumaria2/blabberBuzzBackend ,live preview-
 https://blabber-buzz-frontend.vercel.app/
-2. **E-commerce Store** - Github-https://github.com/Kartikkumaria2/ShoppingCart,live preview-https://kartik-store.netlify.app/
+2. **E-commerce Store** - Github-https://github.com/Kartikkumaria2/ShoppingCart ,live preview-https://kartik-store.netlify.app/
 
 
 ## 📫 How to Reach Me
